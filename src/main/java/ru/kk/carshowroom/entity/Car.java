@@ -10,7 +10,6 @@ public class Car {
         this.model = model;
         this.color = color;
     }
-
     public Car() {
 
     }
